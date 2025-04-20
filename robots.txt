@@ -1,0 +1,7 @@
+# robots.txt for  Insta Tool
+
+User-agent: *
+Disallow: /
+
+# This prevents all web crawlers (Googlebot, Bingbot, etc.) from accessing any page on the site.
+# Since this is a personal, educational project — no need for indexing.
